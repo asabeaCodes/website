@@ -85,7 +85,7 @@ function App() {
 
     function displayBook(book, index) {
       if (book != "") {
-        return <div><span>book name: </span> <span>{book}</span> <span>   ||bookId: {index}</span> </div>
+        return <div><span>book name: </span> <span>{book}</span> <span>   bookId: {index}</span> </div>
       }
     }
 
