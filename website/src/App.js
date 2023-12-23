@@ -12,7 +12,7 @@ function App() {
   const [bookIndex, setBookIndex] = useState();
 
   async function accessContract () {
-    const contractAddress ="0x0f9997BFc25C9BcD28601F660646aaC58C1b0C5c";
+    const contractAddress ="0x516f89265460a455aCA6DF1b5c073F0fb492698a";
     const contractABI = [
       {
         "inputs": [
