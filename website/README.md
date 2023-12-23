@@ -3,7 +3,7 @@
 This project was funded the local government of AsabeaLand
 
 ## Visiting the Library
-The Library contract can be found online on the sepolia testnet at this address 0x0f9997BFc25C9BcD28601F660646aaC58C1b0C5c
+The Library contract can be found online on the sepolia testnet at this address `0x516f89265460a455aCA6DF1b5c073F0fb492698a`
 
 you can visit the library website after running appropriate commands
 
